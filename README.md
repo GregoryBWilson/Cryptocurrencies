@@ -8,7 +8,7 @@ The data worked with was not ideal, so it needed to be processed to fit clusteri
 
 ## 2.0 Results
 
-The work involved a structured flow to take the data from its raw form to a result that could be visualized for easy comprehension.  The set below are discuss in subsections below:
+The work involved a structured flow to take the data from its raw form to a result that could be visualized for easy comprehension.  The steps below are discussed in subsections 2.1-2.4:
 
 1. Preprocessing the Data for PCA
 2. Reducing Data Dimensions Using PCA
@@ -34,7 +34,7 @@ We preprocessed the data by completing the five steps below performed on the cry
 To reduce the data dimensions we completed the work below:
 
 - The PCA algorithm reduced the dimensions of the X DataFrame down to three principal components
-- The pcs_df  DataFrame was created and having the following three columns, PC 1, PC 2, and PC 3, and also has the index from the crypto_df DataFrame
+- The pcs_df  DataFrame was created having the following three columns, PC 1, PC 2, and PC 3, and also has the index from the crypto_df DataFrame
 
 ![Table_2_Dimensionally_Reduced_PCS_DataFrame](Resources/Table_2_Dimensionally_Reduced_PCS_DataFrame.png "Table 2 - Dimensionally Reduced PCS DataFrame")
 
@@ -61,7 +61,7 @@ The K-means algorithm was used to cluster the cryptocurrencies using the PCA dat
 
 We completed the work below:
 
-- The clusters were plotted using a 3D scatter plot, and each data point shows the CoinName and Algorithm on hover
+- The clusters were plotted using a 3D scatter plot, and each data point shows the CoinName and Algorithm on hover.
 
 ![Figure_2_3D_Scatter_Plot_with_CoinName_and_Algorithm](Resources/Figure_2_3D_Scatter_Plot_with_CoinName_and_Algorithm.png "Figure 2 - 3D Scatter Plot with CoinName and Algorithm")
 
@@ -100,4 +100,4 @@ There are 533 tradable cryptocurrenices.
 
 ## 3 Summary
 
-We created an analysis for Martha  senior manager for the Advisory Services Team at Accountability Accounting, who are preparing to get into the cryptocurrency market. The use of a structured technique allowed us to, in the end, greatly simplify the data that had been provided and to visualize it in a concise way.  But it is important to remember, that while unsupervised learning only can help us make decisions about the data, up to a point, then it is up to those with domain expertise, to make the final call.
+We created an analysis for Martha  senior manager for the Advisory Services Team at Accountability Accounting, who are preparing to get into the cryptocurrency market. The use of a structured technique allowed us to, in the end, greatly simplify the data that had been provided and to visualize it in a concise way.  It is important to remember, that while unsupervised learning can only help us make decisions about the data, up to a point, then it is up to those with domain expertise, to make the final call.
