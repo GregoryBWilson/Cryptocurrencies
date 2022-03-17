@@ -63,7 +63,7 @@ We completed the work below:
 
 - The clusters were plotted using a 3D scatter plot, and each data point shows the CoinName and Algorithm on hover
 
-![Figure_2_3D_Scatter_Plot_with_CoinName_and_Algorithm](C:\Users\Greg\Carleton\Cryptocurrencies\Resources\Figure_2_3D_Scatter_Plot_with_CoinName_and_Algorithm.png "Figure 2 - 3D Scatter Plot with CoinName and Algorithm")
+![Figure_2_3D_Scatter_Plot_with_CoinName_and_Algorithm](Resources/Figure_2_3D_Scatter_Plot_with_CoinName_and_Algorithm.png "Figure 2 - 3D Scatter Plot with CoinName and Algorithm")
 
 ***Figure 2 - 3D Scatter Plot with CoinName and Algorithm***
 
